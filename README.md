@@ -4,6 +4,10 @@ This repo takes [`bambi`](https://bambinos.github.io/bambi/) notebooks from [Exa
 
 ## Setup
 
-Using uv version 0.5.7
+Using `uv` version 0.5.7
 
     uv sync
+
+External dependency to run some of the notebooks:
+
+* `model.graph()` like statements require [`graphviz`](https://graphviz.org) to be installed
