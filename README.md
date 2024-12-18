@@ -4,4 +4,6 @@ This repo takes [`bambi`](https://bambinos.github.io/bambi/) notebooks from [Exa
 
 ## Setup
 
+Using uv version 0.5.7
+
     uv sync
