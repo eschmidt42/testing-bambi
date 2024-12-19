@@ -10,4 +10,5 @@ wheels/
 .venv
 
 # Data
+notebooks/data/
 *.csv
